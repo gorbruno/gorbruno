@@ -11,7 +11,7 @@ As a bioinformatician and a naturally curious individual, I work with a diverse 
 
 ```mermaid
 mindmap
-  root((Stack))
+  root((Tools))
     Programming Languages
       Bash
       Nextflow/Groovy
