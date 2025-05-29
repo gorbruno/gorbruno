@@ -16,7 +16,7 @@ mindmap
       Bash
       Nextflow/Groovy
       R
-      Python Async
+      Python
     Package Management
       Conda/Mamba
       Docker/Colima
@@ -32,38 +32,10 @@ mindmap
       MacOs
       Linux
       HPC
-    Geocoding
-      SpatiaLite
-      OSM
-      openrouteservice API
-      WhosOnFirst
     Machine Learning
-      Regression
-      Dimension Reduction
-      Kaggle
-      HuggingFace
-      scikit-learn
-    NLP
-      PyTorch
-      vLLM
-      llama.cpp/GGUF
-      HuggingFace API
-      Knowledge Distillation
-      PEFT/LoRA
-    RAG
-      LangChain
-      Unstructured
-      ChromaDB
-      FAISS
+      NLP
+      RAG
     Databases Async
       SQL ORM
       Redis
-    aiogram
-      Storages
-      Custom Filters
-      FSM
-    Web Scraping
-      requests
-      beautifulsoup4
-      Selenium 
 ```
